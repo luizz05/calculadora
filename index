@@ -8,11 +8,13 @@
 
 <form action="operacao.php" method="POST">
 
-    Numero 1: <input type="number" name="num1">
+    numero 1: <input type="number" name="num1">
     <br><br>
 
-    Numero 2: <input type="number" name="num2">
+    numero 2: <input type="number" name="num2">
     <br><br>
+
+    operacao: <input type="number" name = "op">
 
     <button type="submit">Calcular</button>
 
